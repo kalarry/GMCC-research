@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% 样式定义
     classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px;
